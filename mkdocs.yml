@@ -1,1 +1,11 @@
 site_name: AquaDocs
+
+nav:
+  - Home: 'index.md'
+  - SBC:
+    - 'Syslog Server': 'syslog.md'
+  - Network:
+    - 'EdgeRouter X': 'edgerouter.md'
+    - 'Guest Network': 'guest.md'
+
+theme: readthedocs
